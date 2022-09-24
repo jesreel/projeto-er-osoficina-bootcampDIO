@@ -32,6 +32,7 @@ Projeto Modelagem ER OS Oficina, Bootcamp Database Experience DIO
 
 
 
+ ![Projeto ER OS Oficina DIO](diagrama-os-oficina.png)
 
 
 
